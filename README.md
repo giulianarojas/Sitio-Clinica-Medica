@@ -1,7 +1,7 @@
 # Sitio-Clinica-Medica
-Este proyecto es un sitio web desarrollado para una clínica médica, diseñado para brindar información clara sobre los servicios ofrecidos y facilitar la solicitud de turnos
 
-Sitio Web para Clínica Médica 🏥
+
+🏥
 Este es un proyecto desarrollado en WordPress para una clínica médica, con una estructura optimizada para gestionar información sobre servicios, médicos y contacto con los pacientes. Se ha personalizado utilizando un tema hijo para mantener la integridad del código original y permitir modificaciones a medida.
 
 📌 Características principales
